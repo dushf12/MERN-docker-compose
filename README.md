@@ -14,4 +14,4 @@ Frontend: React application served through Nginx
 Backend: Node.js/Express API
 Database: MongoDB instance
 
-!(DockerCompose.jpg)
+![Alt text](DockerCompose.png)
